@@ -1,3 +1,10 @@
+" zoom.vim : control gui font size with "+" or "-" keys.
+" ------------------------------------------------------------------------------
+" author  : OMI TAKU
+" url     : http://nanasi.jp/
+" email   : mail@nanasi.jp
+" version : 2008/07/18 10:00:00
+
 if &cp || exists("g:loaded_zoom")
     finish
 endif
